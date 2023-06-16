@@ -5,3 +5,15 @@
 
     background: #a27da5;
 }
+
+.titulocab{
+    position: absolute;
+    width: 1042px;
+    height: 83px;
+    font-family: italiana;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height:120.52% ;
+    color: #000000;
+}
