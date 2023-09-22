@@ -23,3 +23,13 @@
     height: 130px;
     flex-shrink: 0;
 }
+.img2{
+    width: 134px;
+    height: 121px;
+    flex-shrink: 8;
+}
+.img3{
+    width: 148px;
+    height: 152px;
+    flex-shrink: ;
+}
