@@ -19,6 +19,7 @@
 }
 
 .img1{
-    width: 117px
- height ;
+    width: 117px;
+    height: 130px;
+    flex-shrink: 0;
 }
